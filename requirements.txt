@@ -1,0 +1,8 @@
+# https://pypi.org/project/asgiref/
+asgiref==3.10.0
+
+# https://pypi.org/project/Django/
+Django==5.2.8
+
+# https://pypi.org/project/sqlparse/
+sqlparse==0.5.3
